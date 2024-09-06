@@ -349,22 +349,22 @@ public class FrmHangman extends javax.swing.JFrame {
      */
     public void setIcon(){
         if(wrongGuesses == 1){
-            lblIcon.setIcon(new ImageIcon("images/src/5.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/5.jpg"));
         }
         else if(wrongGuesses == 2){
-            lblIcon.setIcon(new ImageIcon("images/src/6.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/6.jpg"));
         }
         else if(wrongGuesses == 3){
-            lblIcon.setIcon(new ImageIcon("images/src/7.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/7.jpg"));
         }
         else if(wrongGuesses == 4){
-            lblIcon.setIcon(new ImageIcon("images/src/8.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/8.jpg"));
         }
         else if(wrongGuesses == 5){
-            lblIcon.setIcon(new ImageIcon("images/src/9.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/9.jpg"));
         }
         else{
-            lblIcon.setIcon(new ImageIcon("images/src/10.jpg"));
+            lblIcon.setIcon(new ImageIcon("src/images/10.jpg"));
         }
     }
     
