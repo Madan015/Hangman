@@ -1,9 +1,4 @@
-/*
-File Name:      CulminatingAssignment
-Programmers:	Mathan Thatparananthan, Belinda Chen, Innilan Sathieskumar, Rafat Hossain
-Date:		August 22, 2022
-Description:	A program that simulates a game of hangman.
-*/
+// This program serves as the lose screen for the Hangman game. It displays the correct word that the user was unable to guess.
 
 public class FrmLose extends javax.swing.JFrame {
 

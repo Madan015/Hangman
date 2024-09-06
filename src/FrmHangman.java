@@ -1,9 +1,4 @@
-/*
-File Name:      CulminatingAssignment
-Programmers:	Mathan Thatparananthan, Belinda Chen, Innilan Sathieskumar, Rafat Hossain
-Date:		August 22, 2022
-Description:	A program that simulates a game of hangman.
-*/
+// This program serves as the GUI for the hangman game. It allows the user to play a game of hangman by guessing
 
 import java.util.*;
 import javax.swing.*;

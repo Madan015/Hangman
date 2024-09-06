@@ -1,9 +1,4 @@
-/*
-File Name:      CulminatingAssignment
-Programmers:	Mathan Thatparananthan, Belinda Chen, Innilan Sathieskumar, Rafat Hossain
-Date:		August 22, 2022
-Description:	A program that simulates a game of hangman.
-*/
+// This program serves as the window that appears when the user wins the game of Hangman.
 
 public class FrmWin extends javax.swing.JFrame {
     public FrmWin() {

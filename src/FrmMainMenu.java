@@ -1,9 +1,4 @@
-/*
-File Name:      CulminatingAssignment
-Programmers:	Mathan Thatparananthan, Belinda Chen, Innilan Sathieskumar, Rafat Hossain
-Date:		August 22, 2022
-Description:	A program that simulates a game of hangman.
-*/
+// This program serves as the main menu for the Hangman game. It allows the user to choose a theme and start the game. 
 
 public class FrmMainMenu extends javax.swing.JFrame {
     
