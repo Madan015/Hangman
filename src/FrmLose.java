@@ -52,7 +52,7 @@ public class FrmLose extends javax.swing.JFrame {
             }
         });
 
-        lblHangmanIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/10.jpg"))); // NOI18N
+        lblHangmanIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/10.jpg"))); // NOI18N
 
         lblGuessesRemaining.setFont(new java.awt.Font("Poor Richard", 1, 18)); // NOI18N
         lblGuessesRemaining.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -61,7 +61,7 @@ public class FrmLose extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(255, 255, 102));
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 3));
 
-        lblLoseIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/LoseScreenImage.png"))); // NOI18N
+        lblLoseIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/LoseScreenImage.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);

@@ -112,7 +112,7 @@ public class FrmHangman extends javax.swing.JFrame {
             }
         });
 
-        lblIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/3.jpg"))); // NOI18N
+        lblIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/3.jpg"))); // NOI18N
 
         txtGuessLetter.setFont(new java.awt.Font("Poor Richard", 0, 18)); // NOI18N
         txtGuessLetter.setHorizontalAlignment(javax.swing.JTextField.CENTER);
@@ -349,22 +349,22 @@ public class FrmHangman extends javax.swing.JFrame {
      */
     public void setIcon(){
         if(wrongGuesses == 1){
-            lblIcon.setIcon(new ImageIcon("src/5.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/5.jpg"));
         }
         else if(wrongGuesses == 2){
-            lblIcon.setIcon(new ImageIcon("src/6.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/6.jpg"));
         }
         else if(wrongGuesses == 3){
-            lblIcon.setIcon(new ImageIcon("src/7.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/7.jpg"));
         }
         else if(wrongGuesses == 4){
-            lblIcon.setIcon(new ImageIcon("src/8.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/8.jpg"));
         }
         else if(wrongGuesses == 5){
-            lblIcon.setIcon(new ImageIcon("src/9.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/9.jpg"));
         }
         else{
-            lblIcon.setIcon(new ImageIcon("src/10.jpg"));
+            lblIcon.setIcon(new ImageIcon("images/src/10.jpg"));
         }
     }
     

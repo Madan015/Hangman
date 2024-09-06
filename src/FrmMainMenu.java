@@ -1,4 +1,4 @@
-// This program serves as the main menu for the Hangman game. It allows the user to choose a theme and start the game. 
+// This program serves as the main menu for the Hangman game. It allows the user to choose a theme and start the game.   
 
 public class FrmMainMenu extends javax.swing.JFrame {
     

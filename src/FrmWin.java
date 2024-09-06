@@ -23,7 +23,7 @@ public class FrmWin extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(0, 0, 0));
 
-        lblWinIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Win.png"))); // NOI18N
+        lblWinIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Win.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
